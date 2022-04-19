@@ -207,7 +207,10 @@ footer img {
 
 .link>div>p{
     text-decoration: none;
-    color:black
+    color:black;
+    overflow: hidden; 
+white-space: nowrap;
+
 }
 
 .social{
